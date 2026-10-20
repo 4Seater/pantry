@@ -7,6 +7,10 @@
     {
       "source": "/mahjong_calculator/mahjongcalculatorpp",
       "destination": "/privacy.html"
+    },
+    {
+      "source": "/mahjong_calculator/support",
+      "destination": "/support.html"
     }
   ],
   "headers": [
