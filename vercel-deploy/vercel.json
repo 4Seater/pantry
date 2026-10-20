@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/mahjong_calculator/mahjongcalculator",
-      "destination": "/index.html"
+      "destination": "/privacy.html"
     },
     {
       "source": "/mahjong_calculator/mahjongcalculatorpp",
